@@ -31,7 +31,7 @@ Este proyecto aborda el desafío de buscar sitios web y correos electrónicos de
 ## ⚙ Cómo ejecutar el proyecto  
 ## 1. Clona este repositorio:  
    
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/saharaqc/ExtratEmailPython.git
    
 ## 2. Instala las dependencias necesarias
  !pip install pandas requests
