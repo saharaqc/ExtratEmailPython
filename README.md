@@ -23,8 +23,8 @@ Este proyecto aborda el desafío de buscar sitios web y correos electrónicos de
 - **Resultado final**: Un **25% de resultados válidos**, destacando la importancia de los datos de entrada para el éxito del proceso.
 
 ## 📂 Estructura del Proyecto  
-├── Buscar_Asociaciones.xlsx # Archivo de entrada con nombres y tipos de empresas. 
-├── resultado_final.xlsx # Archivo de salida con los resultados. 
+├── Buscar_Empresas.xlsx # Archivo de entrada con nombres y tipos de empresas. 
+├── Resultado_Emails.xlsx # Archivo de salida con los resultados. 
 ├── main.py # Script principal. 
 ├── README.md # Este archivo.
 
